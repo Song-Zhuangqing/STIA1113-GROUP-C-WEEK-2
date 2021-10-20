@@ -1,0 +1,17 @@
+package Day;
+
+public class ONE {
+	public static void main(String[] args) {
+		System.out.println("Get up at 6 o'clock.");
+		System.out.println("Fitness from 6:30 to 7:30.");
+		System.out.println("Have breakfast before eight o'clock.");
+		System.out.println("Generally speaking, classes start from 8:30 to 12:30.");
+		System.out.println("Have lunch in free time.");
+		System.out.println("Classes will continue in the afternoon until four o'clock.");
+		System.out.println("Rest and relax for an hour after the end of the day of class.");
+		System.out.println("Then began to complete the task of the day.");
+		System.out.println("After completing all the tasks, you will play a game for a while.");
+		System.out.println("Finally, after dinner, go to bed.");
+		
+	}
+}
